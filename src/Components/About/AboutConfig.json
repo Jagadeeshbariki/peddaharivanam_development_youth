@@ -1,0 +1,96 @@
+[
+    {
+        "history":"",
+        "Members":[
+            {
+                "Name":"YERUKULA MAHESH",
+                "Age" :"27",
+                "Qualification":"I.T.I & DEGREE",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"1"
+            },
+            {
+                "Name":"BARIKI SHIVA KUMAR",
+                "Age" :"",
+                "Qualification":"MBA",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"2"
+            },
+            {
+                "Name":"Podalakaunta srinivasulu ",
+                "Age" :"24",
+                "Qualification":"BI.P.C (DROP OUT)",
+                "Motivation":"The current situation of Our village motivate me to join this group. ",
+                "ImageURL":"",
+                "Id.No":"3"
+            },
+            {
+                "Name":"Bariki Jagadeeesh",
+                "Age" :"24",
+                "Qualification":"MCA",
+                "Motivation":"The Situation of MPP Telugu School motivate me to join this group, I have asked village leaders about school situation but there is no response from there so that I have decided to join this group",
+                "ImageURL":"",
+                "Id.No":"4"
+            },
+            {
+                "Name":"UPPARA RAJASEKHAR",
+                "Age" :"21",
+                "Qualification":"MBA",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"5"
+            },
+            {
+                "Name":"Kotekallu Mohana Krishna",
+                "Age" :"23",
+                "Qualification":"MCA",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"6"
+            },
+            {
+                "Name":"Chakali Manikanta",
+                "Age" :"24",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"7"
+            },
+            {
+                "Name":"Adoni Naresh",
+                "Age" :"24",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"8"
+            },
+            {
+                "Name":"Adoni Mounesh",
+                "Age" :"25",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"9"
+            },
+            {
+                "Name":" UPPARA CHIRANJEEVI ",
+                "Age" :"22",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"10"
+            },
+            {
+                "Name":"Uppara Sunil Kumar ",
+                "Age" :"24",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"11"
+            }
+
+        ]
+    }
+]

@@ -11,6 +11,10 @@
     padding: 20px;
 }
 
+.OurGoals{
+    margin: 15px;
+}
+
 .HomeIntro{
     display: flex;
     justify-content: space-evenly;
@@ -29,7 +33,51 @@ li{
     line-height: 50px;
 }
 
+.JoinBtn{
+   width: 90px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   background-color: rgb(107, 105, 234);
+   font-weight: 700;
+}
 
+.JoinBtn:hover{
+    color: white;
+    background-color: blue;
+}
+
+
+.OurIntro{
+    
+   width: 50%;
+   font-size: 20px;
+   
+}
+
+.HomeSecondSectionHeading{
+    text-align: center;
+    background-color: rgb(220, 155, 33);
+    color: white;
+    padding: 5px;
+}
+
+.HomeSecondSection{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgreen;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 25px;
+
+}
+
+.secondSectionImg img{
+   width: 100%;
+   height: 500px;
+   border-radius: 50px;
+   box-shadow: 14px 14px 14px rgb(12, 12, 12), -4px -4px 14px rgb(241, 240, 240);
+}
 
 @media (max-width:500px) {
     .devimg{
@@ -46,5 +94,18 @@ li{
 
     ol{
         list-style: none;
+    }
+
+    .HomeSecondSection{
+        flex-direction: column-reverse;
+    }
+    .secondSectionImg img{
+        height: auto;
+    }
+
+    .OurIntro{
+        width: auto;
+        text-align: left;
+        margin-top: 50px;
     }
 }
