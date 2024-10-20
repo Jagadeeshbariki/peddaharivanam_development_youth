@@ -1,0 +1,19 @@
+.MenuList{
+    list-style: none;
+    margin: 0px;
+    text-align: right;
+    background-color: rgb(103, 103, 208);
+}
+
+.MenuList li{
+    display: inline;
+    margin-right: 15px;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+
+.MenuList li:hover{
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px;
+}
