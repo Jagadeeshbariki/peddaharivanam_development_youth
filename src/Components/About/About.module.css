@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+.AboutContainer{
+    background-color: rgb(173, 241, 173);
+   
+}
+
+.AboutPara{
+    
+    font-family: 'Nanum Gothic';
+    padding: 10px;
+}
+
+.AboutHeading{
+    text-decoration: underline ;
+}
+
+
+
+.HeadingSection{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    padding: 5px;
+    align-items: center;
+}
+
+.HeadingSection a{
+    font-size: 20px;
+    margin-right: 10px;
+
+}
+
+/* Members Sections styling */
+
+.MembersContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.MemberCard{
+    background-color: lightcyan;
+    width: 250px;
+    margin-bottom: 35px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px black;
+}
+
+.MemberImg{
+    border-radius: 25px;
+}
+
+.MembersContainer p{
+    margin: 0px;
+}
+
+.MembersHeading{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+@media (max-width:500px) {
+    .HeadingSection{
+        flex-wrap: wrap;
+    }
+
+    .AboutPara{
+        line-height: 35px;
+    }
+}

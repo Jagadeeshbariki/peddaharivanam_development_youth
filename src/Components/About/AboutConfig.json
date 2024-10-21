@@ -1,6 +1,28 @@
 [
     {
-        "history":"",
+        "history":[
+            {
+                "p":"The story of how the Pedda Harivanam Development Youth group was formed began on a quiet afternoon, when a few of us were sitting in front of the Telugu school in our village. As we looked around, we couldn’t help but notice how neglected the school seemed compared to others in our village. The buildings looked old and in need of repair, and there was a lack of basic facilities for the children studying there. This struck a chord with all of us."
+            },
+            {
+                "p":"We started asking ourselves, why has this Telugu school not developed like the other schools in our village? The question lingered in our minds, and we couldn't just sit back. That evening, we raised the issue in our village's WhatsApp group, asking the village leaders and influential figures, “Why is our Telugu school being neglected? What can we do to improve it?” But to our disappointment, no one responded publicly. We felt ignored, and the lack of concern troubled us deeply."
+            },
+            {
+                "p":"However, one person did reach out privately. They encouraged us, saying, “If you really want to make a change, form a group with the village youth and ask for what the school needs. You can do more than just ask questions in the WhatsApp group.” This advice lit a spark within us."
+            },
+            {
+                "p":"Inspired by this, we decided to act. We gathered a few like-minded youths from the village, united by the same goal of improving the Telugu school and the overall development of our village. Together, we went to meet the Headmaster (HM) of the Telugu school. He welcomed us, listened to our concerns, and explained the reasons behind the school's lack of development. He clarified our doubts, and although the answers weren’t easy to hear, they gave us a starting point to take real action."
+            },
+            {
+                "p":"This experience opened our eyes. We realized that this wasn’t just about the school; the whole village had been in the same state for as long as we could remember. Despite living here our entire lives, we had seen little improvement or development. It became clear to us that if we wanted change, we would have to take responsibility for it ourselves. We could no longer wait for others to act."
+            },
+            {
+                "p":"With this determination, we gathered more youths from the village, those who cared about the future of our community. Together, we formed our group, which we proudly named “Pedda Harivanam Development Youth.” Our mission became not just about the school but about improving our entire village, from infrastructure to education and everything in between."
+            },
+            {
+                "p":"Since that day, we have been working together, holding meetings, planning projects, and pushing for the development of our village. It all started with the Telugu school, but now our goal is to bring positive change to all areas of Pedda Harivanam."
+            }
+        ],
         "Members":[
             {
                 "Name":"YERUKULA MAHESH",
@@ -15,7 +37,7 @@
                 "Age" :"",
                 "Qualification":"MBA",
                 "Motivation":"",
-                "ImageURL":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/c_crop,w_600,h_600/v1729507949/2022-08-12-17-49-34-043-removebg-preview_tcirnz.png",
                 "Id.No":"2"
             },
             {
@@ -31,23 +53,23 @@
                 "Age" :"24",
                 "Qualification":"MCA",
                 "Motivation":"The Situation of MPP Telugu School motivate me to join this group, I have asked village leaders about school situation but there is no response from there so that I have decided to join this group",
-                "ImageURL":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/c_fill,w_339,h_452,ar_3:4/v1729500266/Jagadeesh_gb3zfe.png",
                 "Id.No":"4"
             },
             {
                 "Name":"UPPARA RAJASEKHAR",
                 "Age" :"21",
                 "Qualification":"MBA",
-                "Motivation":"",
-                "ImageURL":"",
+                "Motivation":"I want to see real development in my village, which is why I’m dedicated to working with the Pedda Harivanam Development Youth Association. Together, we can solve local issues and create a brighter future for everyone in our community",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_785,h_1046,ar_3:4/v1729500264/RaJaBhai_u0ly4e.png",
                 "Id.No":"5"
             },
             {
                 "Name":"Kotekallu Mohana Krishna",
                 "Age" :"23",
                 "Qualification":"MCA",
-                "Motivation":"",
-                "ImageURL":"",
+                "Motivation":"I want my village to feel like home. That’s why I joined this group, to help bring positive change, tackle local issues, and make Pedda Harivanam a place we can all be proud of, just like our own homes.",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_800,h_1067,ar_3:4/v1729440540/WhatsApp_Image_2024-10-20_at_6.45.34_PM_jkh6ul.jpg",
                 "Id.No":"6"
             },
             {
@@ -79,7 +101,7 @@
                 "Age" :"22",
                 "Qualification":"",
                 "Motivation":"",
-                "ImageURL":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_600,h_600/v1729507948/WhatsApp_Image_2024-10-21_at_3.05.18_PM-removebg-preview_uviwmo.png",
                 "Id.No":"10"
             },
             {
@@ -89,6 +111,14 @@
                 "Motivation":"",
                 "ImageURL":"",
                 "Id.No":"11"
+            },
+            {
+                "Name":"Mangali guru Murthy",
+                "Age" :"27",
+                "Qualification":"PUC inter",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729507690/1729502274249-removebg-preview_e2shuc.png",
+                "Id.No":"12"
             }
 
         ]

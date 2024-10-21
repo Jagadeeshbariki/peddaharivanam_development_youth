@@ -1,18 +1,18 @@
 [
     {
         "TabName":"Home",
-        "link":"home"
+        "link":"/"
     },
     {
         "TabName":"About Us",
-        "link":"about"
+        "link":"/about"
     },
     {
         "TabName":"Our Works",
-        "link":"ourworks"
+        "link":"/ourworks"
     },
     {
         "TabName":"Contact Us",
-        "link":"contactus"
+        "link":"/contactus"
     }
 ]
