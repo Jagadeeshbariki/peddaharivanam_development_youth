@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
-    <Router basename="/peddaharivanam_development_youth">
+    <Router basename="/peddaharivanam_development_youth/">
       <div className="App">
         <Header/>
         <Menu/>
