@@ -4,6 +4,9 @@ import MenuData from './MenuConfig.json';
 import { Routes, Route, Link} from 'react-router-dom';
 import Home from '../Home/Home';
 import About from '../About/About';
+import Members from '../About/OurMembers/Members';
+import Contact from '../Contact/Contact';
+
 
 const Menu = () => {
   return (
@@ -17,10 +20,13 @@ const Menu = () => {
       </ul>
 
       <Routes>
-        <Route path='*' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
+        <Route path='/members' element={<Members/>}/>
+        <Route path='/contactus' element={<Contact/>} />
       </Routes>
     </div>
+    
   )
 }
 

@@ -6,6 +6,12 @@ import YouthImg from '../../Assets/YouthImage.png';
 const Home = () => {
   return (
     <div className={`${styles.HomeContainer}`}>
+      <div className={styles.ShowcaseVideo}>
+      <video width="600" controls autoPlay muted >
+        <source src="https://res.cloudinary.com/dbohmpxko/video/upload/v1729592187/SpeechBSJP_nkezkg.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+      </div>
       <div className={`${styles.HomeIntro}`}>
         <div className={`${styles.OurGoals}`}>
             <i className={`${styles.slogon}`}>"Village Growth Starts with Youth Empowerment!"</i>

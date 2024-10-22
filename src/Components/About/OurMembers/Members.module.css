@@ -1,0 +1,38 @@
+/* Members Sections styling */
+
+.MembersMainContainer{
+    background-color: lightgreen;
+}
+
+.MembersContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.MemberCard{
+    background-color: lightcyan;
+    width: 250px;
+    margin-bottom: 35px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px black;
+}
+
+.MemberImg{
+    border-radius: 25px;
+}
+
+.MembersContainer p{
+    margin: 0px;
+}
+
+.MembersHeading{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.FooterSubContainer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(255, 166, 0, 0.823);
+}
+
+.FooterSubContainer h2{
+    color: white;
+    text-decoration: underline black;
+}
+
+@media (max-width:500px) {
+    .FooterSubContainer{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}

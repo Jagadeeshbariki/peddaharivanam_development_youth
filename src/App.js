@@ -3,6 +3,7 @@ import Header from './Components/Header/Header';
 import Menu from './Components/Menu/Menu';
 import 'bootstrap/dist/css/bootstrap.css';
 import { HashRouter  as Router } from 'react-router-dom';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="App">
         <Header/>
         <Menu/>
+        <Footer/>
       </div>
     </Router>
   );

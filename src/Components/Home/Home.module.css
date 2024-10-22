@@ -1,3 +1,15 @@
+.ShowcaseVideo{
+    display: flex;
+    justify-content: center;
+}
+.ShowcaseVideo video{
+    width: 100%;
+    z-index: -1;
+    
+}
+
+
+
 .devimg{
     /* width: 50%; */
     width: 100%;
@@ -90,6 +102,7 @@ li{
 
     .HomeContainer{
         text-align: center;
+        
     }
 
     ol{
@@ -108,4 +121,12 @@ li{
         text-align: left;
         margin-top: 50px;
     }
+    .ShowcaseVideo video{
+        width: 100%;
+    }
 }
+
+
+
+
+
