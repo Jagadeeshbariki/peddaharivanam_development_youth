@@ -22,3 +22,10 @@
 .MenuContainer{
     padding-top: 150px;
 }
+
+
+@media (max-width:500px) {
+    .MenuList{
+        text-align: center;
+    }
+}

@@ -8,10 +8,6 @@
         "link":"/about"
     },
     {
-        "TabName":"Our Works",
-        "link":"/ourworks"
-    },
-    {
         "TabName":"Contact Us",
         "link":"/contactus"
     }
