@@ -5,8 +5,8 @@ const Home = () => {
   return (
     <div className={`${styles.HomeContainer}`}>
       <div className={styles.ShowcaseVideo}>
-      <video controls autoPlay muted >
-        <source src="https://res.cloudinary.com/dbohmpxko/video/upload/v1729592187/SpeechBSJP_nkezkg.mp4" type="video/mp4" />
+      <video controls autoPlay muted loop>
+        <source src="https://res.cloudinary.com/dbohmpxko/video/upload/v1729680833/Untitled_Project_sifboh.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       </div>
