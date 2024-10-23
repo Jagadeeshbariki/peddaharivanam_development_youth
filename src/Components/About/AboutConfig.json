@@ -29,7 +29,7 @@
                 "Age" :"27",
                 "Qualification":"I.T.I & DEGREE",
                 "Motivation":"",
-                "ImageURL":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675330/Mahesh_wqfnbx.jpg",
                 "Id.No":"1"
             },
             {
@@ -37,7 +37,7 @@
                 "Age" :"",
                 "Qualification":"MBA",
                 "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/c_crop,w_600,h_600/v1729507949/2022-08-12-17-49-34-043-removebg-preview_tcirnz.png",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675328/Shiva_bkezcw.jpg",
                 "Id.No":"2"
             },
             {
@@ -58,10 +58,10 @@
             },
             {
                 "Name":"UPPARA RAJASEKHAR",
-                "Age" :"21",
+                "Age" :"24",
                 "Qualification":"MBA",
                 "Motivation":"I want to see real development in my village, which is why I’m dedicated to working with the Pedda Harivanam Development Youth Association. Together, we can solve local issues and create a brighter future for everyone in our community",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_785,h_1046,ar_3:4/v1729500264/RaJaBhai_u0ly4e.png",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675328/RajaShekhar_nj3izn.jpg",
                 "Id.No":"5"
             },
             {
@@ -83,9 +83,9 @@
             {
                 "Name":"Adoni Naresh",
                 "Age" :"24",
-                "Qualification":"",
+                "Qualification":"BA",
                 "Motivation":"",
-                "ImageURL":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675329/Naresh_wgxqse.jpg",
                 "Id.No":"8"
             },
             {
@@ -119,8 +119,17 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729507690/1729502274249-removebg-preview_e2shuc.png",
                 "Id.No":"12"
+            },{
+                "Name":"Abbu ",
+                "Age":"25",
+                "Qualification":"BA",
+                "Motivation":"",
+                "ImageURL":"",
+                "Id.No":"13"
             }
+            
 
         ]
     }
 ]
+

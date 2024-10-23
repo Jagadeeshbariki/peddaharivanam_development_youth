@@ -1,13 +1,11 @@
 import React from 'react';
 import styles from './Home.module.css';
-import DevImg from '../../Assets/ImgDev.png';
-import YouthImg from '../../Assets/YouthImage.png';
 
 const Home = () => {
   return (
     <div className={`${styles.HomeContainer}`}>
       <div className={styles.ShowcaseVideo}>
-      <video width="600" controls autoPlay muted >
+      <video controls autoPlay muted >
         <source src="https://res.cloudinary.com/dbohmpxko/video/upload/v1729592187/SpeechBSJP_nkezkg.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
@@ -29,7 +27,7 @@ const Home = () => {
             <a href='https://wa.me/916300963789?text=I%20am%20interested%20to%20Join%20Your%20Group' target="_blank" rel="noreferrer"><button className={`${styles.JoinBtn}`}>Join Us</button></a>
         </div>
         <div className={`${styles.ImgDevOfVlg}`}>
-            <img className={`${styles.devimg}`} src={DevImg} alt='VillageImg' />
+            <img className={`${styles.devimg}`} src="https://res.cloudinary.com/dbohmpxko/image/upload/v1729676507/ImgDev_noc1kn.png" alt='VillageImg' />
         </div>
       </div>
       <h2 className={`${styles.HomeSecondSectionHeading}`}>Pedda Harivanam Development Youth: Building a Brighter Future Together</h2>
@@ -41,7 +39,7 @@ const Home = () => {
           <p><b>Let’s work together for a cleaner, healthier, and more prosperous village!</b></p>
         </div>
         <div className={`${styles.secondSectionImg}`}>
-         <img src={YouthImg} alt='Youth Discussion' />
+         <img src="https://res.cloudinary.com/dbohmpxko/image/upload/v1729676502/YouthImage_mlnrky.png" alt='Youth Discussion' />
         </div>
       </div>
     </div>

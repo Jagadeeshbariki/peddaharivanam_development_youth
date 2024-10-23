@@ -1,10 +1,11 @@
 .ShowcaseVideo{
-    display: flex;
-    justify-content: center;
+    position: relative;
+    z-index: 10;
 }
 .ShowcaseVideo video{
+    z-index: 20;
+    position: relative;
     width: 100%;
-    z-index: -1;
     
 }
 
@@ -63,6 +64,7 @@ li{
 .OurIntro{
     
    width: 50%;
+   padding-left: 15px;
    font-size: 20px;
    
 }
@@ -88,7 +90,7 @@ li{
    width: 100%;
    height: 500px;
    border-radius: 50px;
-   box-shadow: 14px 14px 14px rgb(12, 12, 12), -4px -4px 14px rgb(241, 240, 240);
+   box-shadow: 4px 4px 14px rgb(12, 12, 12), -4px -4px 14px rgb(241, 240, 240);
 }
 
 @media (max-width:500px) {
@@ -126,6 +128,18 @@ li{
     }
 }
 
+
+
+@media (min-width:500px) and (max-width:900px) {
+    .HomeSecondSection{
+        flex-wrap: wrap;
+
+    }
+
+    .OurIntro{
+        width: 100%;
+    }
+}
 
 
 
