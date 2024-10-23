@@ -1,6 +1,6 @@
 .HeaderContainer{
     display: flex;
-    background-color: orange;
+    background-color: #ee9e0a;
     position: fixed;
     width: 100%;
     z-index: 30;
