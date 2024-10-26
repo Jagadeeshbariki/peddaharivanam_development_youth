@@ -3,15 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import AppStore from './Components/AppStore/AppStore';
-import {Provider} from 'react-redux'
+// import AppStore from './Components/AppStore/AppStore';
+// import {Provider} from 'react-redux'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Provider store={AppStore}>
+    {/* <Provider store={AppStore}> */}
     <App />
-    </Provider>
+    {/* </Provider> */}
   </React.StrictMode>
 );
 
