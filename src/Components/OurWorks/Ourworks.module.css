@@ -1,0 +1,8 @@
+.NavBtn{
+    margin:20px;
+}
+
+.OurworksNavMenu{
+    display: flex;
+    justify-content: center;
+}

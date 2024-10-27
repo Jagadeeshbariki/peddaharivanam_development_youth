@@ -1,0 +1,13 @@
+.YVideos{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
+
+@media (max-width:500px) {
+    .YVideos{
+        flex-wrap: wrap;
+    }
+}

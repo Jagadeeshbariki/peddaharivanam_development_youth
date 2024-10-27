@@ -6,10 +6,9 @@ const Header = () => {
   return (
     <div className={`${styles.HeaderContainer}`}>
         <div className={`${styles.LogoContainer}`}>
-            <img className={`${styles.logo}`} src={logo} alt='Logo'/>
-            <p>Pedda Harivanam Development Youth</p>
+              <img className={`${styles.logo}`} src={logo} alt='Logo'/>
+              <p>Pedda Harivanam Development Youth</p>
         </div>
-      
     </div>
   )
 }

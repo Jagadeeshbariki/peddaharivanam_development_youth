@@ -1,7 +1,7 @@
 [
     {
         "TabName":"Home",
-        "link":"/"
+        "link":"/home"
     },
     {
         "TabName":"About Us",
@@ -10,8 +10,13 @@
     {
         "TabName":"Contact Us",
         "link":"/contactus"
-    },{
+    },
+    {
         "TabName":"Group Members",
         "link":"/members"
+    },
+    {
+        "TabName":"Our Works",
+        "link":"/ourworks"
     }
 ]
