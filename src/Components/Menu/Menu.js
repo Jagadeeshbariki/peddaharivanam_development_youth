@@ -30,7 +30,7 @@ const HandleClick=(ClickedMenu)=>{
       </ul>
 
       <Routes>
-        <Route path='/home' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/members' element={<Members/>}/>
         <Route path='/contactus' element={<Contact/>} />

@@ -119,13 +119,22 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729507690/1729502274249-removebg-preview_e2shuc.png",
                 "Id.No":"12"
-            },{
+            },
+            {
+                "Name":"Kogilathota Sethu Madhav",
+                "Age" :"24",
+                "Qualification":"B.Tech",
+                "Motivation":"I've observed my village since childhood, noticing improvement in buildings but not roads and infrastructure. I envision our village as a model for others. As I'm away for work, our youth are leading the development efforts",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730285290/sethu_qtpjcc.jpg",
+                "Id.No":"13"
+            },
+            {
                 "Name":"Abbu ",
                 "Age":"25",
                 "Qualification":"BA",
                 "Motivation":"",
                 "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
-                "Id.No":"13"
+                "Id.No":"14"
             }
             
 
