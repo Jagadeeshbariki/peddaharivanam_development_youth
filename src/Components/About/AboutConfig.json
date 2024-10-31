@@ -93,7 +93,7 @@
                 "Age" :"26",
                 "Qualification":"M.Com",
                 "Motivation":"My motivation to join the group is to empower youth and raise awareness among village residents about government schemes, public healthcare facilities, schools, and other essential resources. I aim to help people access available opportunities, enhancing both community knowledge and overall village development.",
-                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364906/WhatsApp_Image_2024-10-31_at_2.16.51_PM_fzzezw.jpg",
                 "Id.No":"9"
             },
             {
@@ -109,7 +109,7 @@
                 "Age" :"24",
                 "Qualification":"MBA",
                 "Motivation":"",
-                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364906/WhatsApp_Image_2024-10-31_at_2.16.51_PM_1_wpsapw.jpg",
                 "Id.No":"11"
             },
             {
@@ -129,12 +129,34 @@
                 "Id.No":"13"
             },
             {
+                "Name":"Roopa",
+                "Age" :"27",
+                "Qualification":"B.A Graduate",
+                "Motivation":"Joining in this group to struggle& supporting for  sustainable development of our village.. 💪💪",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364462/WhatsApp_Image_2024-10-31_at_2.16.53_PM_ht8omn.jpg",
+                "Id.No":"14"
+            },
+            {
+                "Name":"AMEDALI VENKATESH REDDY",
+                "Age" :"27",
+                "Qualification":":B.COM GENERAL",
+                "Motivation":"I've observed my village since childhood, noticing improvement in buildings but not roads and infrastructure. I envision our village as a model for others. As I'm away for work, our youth are leading the development efforts",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364635/WhatsApp_Image_2024-10-31_at_2.16.52_PM_qjynfl.jpg",
+                "Id.No":"15"
+            },
+            {
+                "Name":"B. Shashi",
+                "Age":"27",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730365205/WhatsApp_Image_2024-10-31_at_2.16.53_PM_1_ugs3ef.jpg",
+                "Id.No":"16"
+            },
+            {
                 "Name":"Abbu ",
                 "Age":"25",
                 "Qualification":"BA",
                 "Motivation":"",
                 "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
-                "Id.No":"14"
+                "Id.No":"17"
             }
             
 
