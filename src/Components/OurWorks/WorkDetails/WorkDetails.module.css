@@ -1,8 +1,46 @@
+.workDetailsContainer{
+    background-color:lightyellow;
+}
 .workImg{
     border-radius: 30px;
-    border: 2px solid black
+    border: 2px solid black;
+    width:500px;
+    height: auto;
+    margin: 10px ;
+    
+}
+
+.ImageContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
 }
 
 .workHeading{
-    text-transform:'uppercase'
+    text-transform: uppercase;
+    background-color: rgb(37, 203, 203);
+    padding: 10px 0px ;
+}
+
+.workDiscription{
+    font-size: 20px;
+    margin: 15px;
+}
+
+h3{
+    margin:0px 20px;
+}
+
+.VideoContainer{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width:500px) {
+    .workImg{
+        width: 100%;
+        height: auto;
+        margin: 5px 20px;
+    }
 }
