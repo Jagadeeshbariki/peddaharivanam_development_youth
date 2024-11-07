@@ -165,6 +165,22 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730376213/WhatsApp_Image_2024-10-31_at_5.10.39_PM_xxa0st.jpg",
                 "Id.No":"18"
+            },
+            {
+                "Name":" Y.Dasarath  ",
+                "Age":"24",
+                "Qualification":"B.Sc",
+                "Motivation":"I am also part of that village, Empowering Peddaharivanam's growth, one initiative at a time.",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946621/Dasaratha_qnnsj9.jpg",
+                "Id.No":"19"
+            },
+            {
+                "Name":"Adoni Bheerappa ",
+                "Age":"25",
+                "Qualification":"B.Sc,B.Ed,Veternary Diploma",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
+                "Id.No":"20"
             }
             
 

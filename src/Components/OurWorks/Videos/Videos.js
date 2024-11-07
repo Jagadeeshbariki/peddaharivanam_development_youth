@@ -5,11 +5,12 @@ import styles from './Videos.module.css';
 const Videos = () => {
 
   const VideoId=[
-    "XNRgnWWDFws",
+    
     "wU7RNOECpyI",
-    "uKtk0FeOZw8",
-    "gXbjujix5lU",
-    "R0KqA9DMqbI"
+    "XNRgnWWDFws",
+    "MJ-tSXXhprg",
+    "HKLNHyDQnnY",
+    "Fxy1ufl11Uo"
   ]
   return (
     <div className={`${styles.YVideos}`}>
