@@ -1,16 +1,21 @@
-{
-    "OurWorksNavMenu":[
+[
+    {
+        "id": 1,
+        "title": "Conducting a Grama Sabha",
+        "description": "To discuss our village's problems and review the panchayat's financial statement, we have submitted a request letter to the village sarpanch to conduct a Gram Sabha.",
+        "date":"02/09/2024",
+        "photos": [
+        "https://res.cloudinary.com/dbohmpxko/image/upload/v1730729557/WhatsApp_Image_2024-11-04_at_7.01.15_PM_wtcwif.jpg"
+        ],
+        "videos":[
+            
+        ],
+        
+        "documents": [
         {
-            "BtnName":"Gallary",
-            "link":"gallary"
-        },
-        {
-            "BtnName":"Videos",
-            "link":"videos"
-        },
-        {
-            "BtnName":"Documents",
-            "link":"documents"
+            "name": "RTI Application",
+            "url": "https://docs.google.com/document/d/19zrNGEKcENbntSfWaRAsiX12htoBYfrEMHYxHQxNyH4/edit?usp=sharing"
         }
-    ]
-}
+        ]
+    }
+]

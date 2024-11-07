@@ -1,30 +1,29 @@
 import React from 'react';
 import styles from './Ourworks.module.css';
+import { useNavigate } from 'react-router-dom';
 import OurworksData from './OurworksConfi.json'
-import { Link, Routes, Route } from 'react-router-dom';
-import Gallary from './Gallary/Gallary';
-import Videos from './Videos/Videos';
-import Documents from './Documents/Documents';
+
 
 const Ourworks = () => {
+  const navigate = useNavigate();
+
+
+  const handleWorkClick = (workId) => {    //to handle the click on the work
+    navigate(`/ourworks/${workId}`);
+  };
     
   return (
     <div className={`${styles.OurworksContainer}`}>
-      <div className={`${styles.OurworksNavMenu}`}>
+      <h2>Our Works</h2>
+      <ul>
         {
-           OurworksData.OurWorksNavMenu.map((Buttons, ind)=>{
-                return <Link key={ind} to={Buttons.link}>
-                    <button key={ind} className={`btn btn-primary ${styles.NavBtn}`}>{Buttons.BtnName}</button>
-                </Link>
-           })
+          OurworksData.map((work)=>{
+            return <li>
+              <h3 onClick={()=>handleWorkClick(work.id)} style={{cursor:'pointer', color:"blue"}}>{work.title}</h3>
+            </li>
+          })
         }
-      </div>
-
-      <Routes>
-        <Route path='gallary' element={<Gallary/>}/>
-        <Route path='videos' element={<Videos/>}/>
-        <Route path='documents' element={<Documents/>}/>
-      </Routes>
+      </ul>
     </div>
   )
 }

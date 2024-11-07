@@ -1,0 +1,8 @@
+.workImg{
+    border-radius: 30px;
+    border: 2px solid black
+}
+
+.workHeading{
+    text-transform:'uppercase'
+}

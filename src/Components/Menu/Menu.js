@@ -7,6 +7,7 @@ import About from '../About/About';
 import Members from '../About/OurMembers/Members';
 import Contact from '../Contact/Contact';
 import Ourworks from '../OurWorks/Ourworks';
+import WorkDetails from '../OurWorks/WorkDetails/WorkDetails';
 
 
 const Menu = () => {
@@ -34,7 +35,8 @@ const HandleClick=(ClickedMenu)=>{
         <Route path='/about' element={<About/>}/>
         <Route path='/members' element={<Members/>}/>
         <Route path='/contactus' element={<Contact/>} />
-        <Route path='/ourworks/*' element={<Ourworks/>}/>
+        <Route path='/ourworks' element={<Ourworks/>}/>
+        <Route path='/ourworks/:workId' element={<WorkDetails/>}/>
       </Routes>
     </div>
     
