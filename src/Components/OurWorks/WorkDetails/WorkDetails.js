@@ -23,7 +23,7 @@ const WorkDetails = () => {
       <h3>Photos</h3>
       <div className={`${styles.ImageContainer}`}>
         {work.photos.map((photo, index) => (
-          <img key={index} src={photo} alt={`photo-${index}`}  className={styles.workImg} />
+          photo? (<img key={index} src={photo} alt={`photo-${index}`}  className={styles.workImg} />): <p>Photos Not Available</p>
         ))}
       </div>
 

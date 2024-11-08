@@ -1,6 +1,8 @@
 import React from 'react';
 import styles from './Footer.module.css';
-import FooterData from "./FooterConfing.json"
+import FooterData from "./FooterConfing.json";
+import SiteMap from '../Menu/MenuConfig.json';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -8,7 +10,16 @@ const Footer = () => {
       {
         FooterData.map((Data, ind)=>{
             return <div key={ind} className={styles.FooterSubContainer}>
-
+                 <div>
+                    <h2>Site Map</h2>
+                    {
+                        SiteMap.map((Tab, ind)=>{
+                            return <div>
+                                <li className={styles.FooterMenu} key={ind}><Link  onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}  to={Tab.link}>{Tab.TabName}</Link></li>
+                            </div>
+                        })
+                    }
+                </div>
                 <div className={styles.AboutUs}>
                     <h2>Our Details</h2>
                     {

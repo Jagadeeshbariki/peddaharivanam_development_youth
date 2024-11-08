@@ -60,5 +60,65 @@
                 "url":"https://drive.google.com/file/d/1Fw05BA9_puEZd-DwkWPDcpfKtkneKlLD/view?usp=sharing"
             }
         ]
+    },
+    {
+        "id":4,
+        "title":"Raising Village Concerns at Gram Sabha on October 2",
+        "description":"On October 2, our village participated in the Gram Sabha meeting to address pressing local issues. To ensure everyone's voice was heard, we created a Google Form to collect problems faced by villagers. This initiative enabled us to gather valuable insights and present a unified front for positive change in our community.",
+        "date":"02/10/2024",
+        "photos":[""],
+        "videos":[""],
+        "documents":[
+            {
+                "name":"Request Letter to the Grama Sabha",
+                "url":"https://drive.google.com/file/d/1ZFBwEte1igV73u9gy1oodZ8aN7NfoXN2/view?usp=sharing"
+            },
+            {
+                "name":"Vinathi Patram to Secretary ",
+                "url":"https://drive.google.com/file/d/1E5xwPv4yUy6fUU9naulPUiW29bj2NkKF/view?usp=sharing"
+            },
+            {
+                "name":"Dumping Yard Solution",
+                "url":"https://drive.google.com/file/d/1H0MKoP7afb-R2KdZ9nG-vmEDJR51h53W/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "title":"Empowering Young Minds: Anganwadi Center Assessment and Recommendations",
+        "description":"Our assessment of local Anganwadi centers reveals opportunities to strengthen early childhood care and education, ensuring a brighter future for our community's children.",
+        "date":"",
+        "photos":[""],
+        "videos":[
+            "XNRgnWWDFws"
+        ],
+        "documents":[
+            {
+                "name":"List Of Food Given At Anganwadi School",
+                "url":"https://db.and.nic.in/socialwelfare/icds/foodsupply.htm"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "title":"Supporting Local Education: Mandal Parishad School Initiative",
+        "description":"We visited the Mandal Parishad Primary Telugu School in our village to assess its condition. We spoke with the Headmaster (HM) to understand the challenges faced by the school. Unfortunately, the school lacks permission to utilize its funds for essential works. To address some pressing issues, we met with our village Sarpanch, Ramu sir, who kindly agreed to provide a new drinking water connection. Additionally, we took the initiative to paint the school gate at our own expense. Our next step is to meet with the Mandal Education Officer (MEO) to discuss the school's overall situation and potential solutions.",
+        "date":"",
+        "photos":[
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724846/WhatsApp_Image_2024-11-04_at_6.07.48_PM_gdefc1.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724858/WhatsApp_Image_2024-11-04_at_6.07.49_PM_a167j7.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724847/WhatsApp_Image_2024-11-04_at_6.07.47_PM_1_xsax3d.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724857/WhatsApp_Image_2024-11-04_at_6.07.44_PM_k87h6o.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724862/WhatsApp_Image_2024-11-04_at_6.07.41_PM_1_gpjoem.jpg"
+        ],
+        "videos":[
+            "Fxy1ufl11Uo"
+        ],
+        "documents":[
+            {
+                "name":"Bill Of Paint purchased for Gate",
+                "url":"https://drive.google.com/file/d/1MW00mfapaT1hcBsgeYOgHS_ag9Ej4n14/view?usp=sharing"
+            }
+        ]
     }
 ]

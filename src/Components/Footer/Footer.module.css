@@ -9,6 +9,11 @@
     text-decoration: underline black;
 }
 
+.FooterMenu{
+    list-style-type: none;
+    line-height: 35px;
+}
+
 @media (max-width:500px) {
     .FooterSubContainer{
         flex-wrap: wrap;
