@@ -36,7 +36,7 @@ const Scroll = () => {
       className={`${styles['scroll-to-top']} ${visible ? styles.show : ''}`}
       onClick={handleClick}
     >
-      <img src='https://cdn-icons-png.flaticon.com/128/10486/10486739.png' alt='Go To Top' />
+      <img className={styles.btnImg} src='https://cdn-icons-png.flaticon.com/128/10486/10486739.png' alt='Go To Top' />
     </button>
   );
 };

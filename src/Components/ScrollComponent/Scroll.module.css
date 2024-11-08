@@ -14,7 +14,7 @@
   border-radius: 50%;
 }
 
-img{
+.btnImg{
   width: 75px;
   height: 75px;
 }
@@ -24,7 +24,7 @@ img{
 }
 
 @media (max-width:500px) {
-  img{
+  .btnImg{
     width: 35px;
     height: 35px;
   }
