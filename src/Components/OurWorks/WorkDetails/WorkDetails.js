@@ -31,7 +31,7 @@ const WorkDetails = () => {
       <div className={`${styles.VideoContainer}`}>
         {work.videos.map((video, index) => (
           
-           video ?(<Youtube key={index}
+           video ?(<Youtube className={styles.VideoPlayer} key={index}
             videoId={video}
             opts={{
               width: '400',
@@ -46,9 +46,9 @@ const WorkDetails = () => {
       <h3>Documents</h3>
       <ul>
         {work.documents.map((doc, index) => (
-          <li key={index}>
-            <a href={doc.url} target="_blank" rel="noopener noreferrer">{doc.name}</a>
-          </li>
+          doc? <li key={index}>
+          <a href={doc.url} target="_blank" rel="noopener noreferrer">{doc.name}</a>
+        </li>: <p>Documents Not Available</p>
         ))}
       </ul>
     </div>

@@ -1,11 +1,13 @@
 .ShowcaseVideo{
     position: relative;
     z-index: 10;
+    background-color: rgb(148 242 148);
 }
 .ShowcaseVideo video{
     z-index: 20;
     position: relative;
     width: 100%;
+    height: 500px;
     
 }
 
@@ -125,6 +127,7 @@ li{
     }
     .ShowcaseVideo video{
         width: 100%;
+        height: auto;
     }
 }
 

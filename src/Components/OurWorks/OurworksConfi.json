@@ -109,7 +109,9 @@
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724858/WhatsApp_Image_2024-11-04_at_6.07.49_PM_a167j7.jpg",
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724847/WhatsApp_Image_2024-11-04_at_6.07.47_PM_1_xsax3d.jpg",
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724857/WhatsApp_Image_2024-11-04_at_6.07.44_PM_k87h6o.jpg",
-            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724862/WhatsApp_Image_2024-11-04_at_6.07.41_PM_1_gpjoem.jpg"
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724862/WhatsApp_Image_2024-11-04_at_6.07.41_PM_1_gpjoem.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730729779/WhatsApp_Image_2024-11-04_at_7.01.14_PM_1_rhc9wb.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730729571/WhatsApp_Image_2024-11-04_at_7.01.13_PM_ky0nxa.jpg"
         ],
         "videos":[
             "Fxy1ufl11Uo"
@@ -120,5 +122,37 @@
                 "url":"https://drive.google.com/file/d/1MW00mfapaT1hcBsgeYOgHS_ag9Ej4n14/view?usp=sharing"
             }
         ]
+    },
+    {
+        "id":7,
+        "title":"Invitation for Village Development: Request to Hon'ble MLA Dr. Partha Saradhi",
+        "description":"We respectfully invite Dr. Partha Saradhi, Hon'ble MLA of Adoni, to visit our village and discuss key development projects. Our request focuses on enhancing infrastructure and community growth, and we believe your presence will greatly contribute to our village's progress.",
+        "date":"18/10/2024",
+        "photos":[""],
+        "videos":["TtRVU2XCnaE"],
+        "documents":[
+            {
+                "name":"Request Letter to MLA",
+                "url":"https://drive.google.com/file/d/1Wg4DnF8s3WOSK5cx0StZmgmor4GwSweK/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "title":"Exploring PWS Water Filtration in Our Village",
+        "description":"We visited the PWS facility in our village to understand their water filtration process. We observed how they filter water through granular beds, ensuring removal of suspended solids. The team checks materials for filter bed construction, considering factors like granulometry, grain shape, friability, and loss to acid. Our discussion with the water treatment specialists and PWS representatives provided valuable insights into their operations.",
+        "date":"",
+        "photos":[
+            "https://res.cloudinary.com/dbohmpxko/image/upload/WhatsApp_Image_2024-11-04_at_6.06.46_PM_c5h1md.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724862/WhatsApp_Image_2024-11-04_at_6.07.15_PM_tusmh1.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724861/WhatsApp_Image_2024-11-04_at_6.07.41_PM_d4wjqu.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724861/WhatsApp_Image_2024-11-04_at_6.07.38_PM_kmn7yi.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724863/WhatsApp_Image_2024-11-04_at_6.07.24_PM_jefuk1.jpg"
+        ],
+        "videos":[
+            "MJ-tSXXhprg",
+            "HKLNHyDQnnY"
+        ],
+        "documents":[""]
     }
 ]

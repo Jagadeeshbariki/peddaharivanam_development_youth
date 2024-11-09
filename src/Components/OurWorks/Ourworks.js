@@ -14,11 +14,11 @@ const Ourworks = () => {
     
   return (
     <div className={`${styles.OurworksContainer}`}>
-      <h2>Our Works</h2>
+      <h2 className={styles.WorksHeading}>Our Works</h2>
       <ul>
         {
           OurworksData.map((work)=>{
-            return <li>
+            return <li className={styles.WorkList}>
               <h3 onClick={()=>handleWorkClick(work.id)} style={{cursor:'pointer', color:"blue"}}>{work.title}</h3>
             </li>
           })

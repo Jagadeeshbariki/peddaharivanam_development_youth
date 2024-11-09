@@ -1,13 +1,14 @@
-.NavBtn{
-    margin:20px;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+.WorksHeading{
+    font-family:Montserrat ;
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightcoral;
+    padding: 10px 0px;
+    text-transform: uppercase;
 }
 
-.OurworksNavMenu{
-    display: flex;
-    justify-content: center;
-}
-
-.WorkTitle{
-    cursor: 'pointer';
-    color:'blue';
+.WorkList{
+    font-family:Playfair ;
 }
