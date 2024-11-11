@@ -35,6 +35,7 @@ h3{
 .VideoContainer{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     
 }
 
