@@ -181,6 +181,38 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
                 "Id.No":"20"
+            },
+            {
+                "Name":"Girish",
+                "Age":"21",
+                "Qualification":"Degree",
+                "Motivation":"For the development of our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732549336/Girish_pauadm.jpg",
+                "Id.No":"21"
+            },
+            {
+                "Name":"Mangali Ayyanna",
+                "Age":"32",
+                "Qualification":"Nill",
+                "Motivation":"Need to see Pedda Harivanam as a developed one",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550032/MAyyanna_llrnio.jpg",
+                "Id.No":"22"
+            },
+            {
+                "Name":"Uppara Sai Kiran",
+                "Age":"19",
+                "Qualification":"Studying B.Tech",
+                "Motivation":"I want to see my village as inspiration to other villages",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550144/Sai_df17ku.jpg",
+                "Id.No":"23"
+            },
+            {
+                "Name":"B Nagaraju",
+                "Age":"19",
+                "Qualification":"Studying Diploma",
+                "Motivation":"I want development in our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732551572/Nagaraju_iqc6yf.jpg",
+                "Id.No":"24"
             }
             
 
