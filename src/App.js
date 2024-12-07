@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { HashRouter  as Router } from 'react-router-dom';
 import Footer from './Components/Footer/Footer';
 import Scroll from './Components/ScrollComponent/Scroll';
+import 'react-bootstrap'
 
 function App() {
   return (

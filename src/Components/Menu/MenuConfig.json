@@ -18,5 +18,9 @@
     {
         "TabName":"Our Works",
         "link":"/ourworks"
+    },
+    {
+        "TabName":"Panchayat Account",
+        "link":"/accounts"
     }
 ]

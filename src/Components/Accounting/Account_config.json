@@ -1,0 +1,158 @@
+[
+  {
+    "year": "2024-25",
+    "Months": [
+      {
+        "month": "April",
+        "details": {
+          "Income":[],
+          "Expenditure": [
+            {
+              "description": "Maintenance of Water Supply line",
+              "pdfUrl": "https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=28487"
+            }
+          ]
+        }
+      },
+      {
+        "month": "May",
+        "details": {
+          "Income": [ ],
+          "Expenditure": [
+            {
+              "description": "PAYMENTS OF LED LIGHTS TO EESL",
+              "pdfUrl": "https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=30232"
+            },
+            {
+              "description":"JSS CLAP MITRAS SALARIES",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=38501"
+            },
+            {
+              "description":"Maintenance of Water Supply line",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=38503"
+            },
+            {
+              "description":"Maintenance of Water Supply line",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=38504"
+            },
+            {
+              "description":"IMPROVEMENT OF ROAD",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=38590"
+            },
+            {
+              "description":"IMPROVEMENT OF ROAD",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=38593"
+            }
+          ]
+        }
+      },
+      {
+        "month":"June",
+        "details":{
+          "Income":[],
+          "Expenditure":[]
+        }
+      },
+      {
+        "month":"July",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+              {
+                "description":"PROVIDING 7.5 HP MONO BLOCK PUMP SET",
+                "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=78940"
+              },
+              {
+                "description":"PROVIDING UNDER GROUND DRAINAGE",
+                "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=82251"
+              }
+          ]
+          
+        }
+      },
+      {
+        "month":"August",
+        "details":{ 
+          "Income":[
+            {
+              "description":" XVFC/2024-25/R/1",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=81383"
+            },
+            {
+              "description":"XVFC/2024-25/R/2",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=81386"
+            },
+            {
+              "description":"XVFC/2024-25/R/3",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=81388"
+            },
+            {
+              "description":"XVFC/2024-25/R/4",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=81389"
+            }
+          ],
+          "Expenditure":[]
+        }
+      },
+      {
+        "month":"September",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+            {
+              "description":"PROIVDING CULVERT ",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=146363"
+            }
+          ]
+        }
+      },
+      {
+        "month":"October",
+        "details":{
+          "Income":[
+            {
+              "description":"XVFC/2024-25/R/5",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=99451"
+            },
+            {
+              "description":"XVFC/2024-25/R/6",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=99453"
+            }
+          ],
+          "Expenditure":[
+            {
+              "description":"HIRING OF DIESEL GENERATOR",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=177361"
+            },
+            {
+              "description":"RESTORATOIN OF DEFUNCT PWS SCHEME NEAR SS TANK",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=178837"
+            },
+            {
+              "description":"CLEARING OF SITE TO CONSTRUCT GOVERNMENT BUILDING",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=182597"
+            }
+          ]
+        }
+      },
+      {
+        "month":"November",
+        "details":{
+          "Income":[
+            {
+              "description":" XVFC/2024-25/R/7",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=120789"
+            }
+
+          ],
+          "Expenditure":[
+            {
+              "description":"JSS CLAP MITRA SALARIES",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=185808"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
