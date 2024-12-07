@@ -181,6 +181,54 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
                 "Id.No":"20"
+            },
+            {
+                "Name":"Girish",
+                "Age":"21",
+                "Qualification":"Degree",
+                "Motivation":"For the development of our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732549336/Girish_pauadm.jpg",
+                "Id.No":"21"
+            },
+            {
+                "Name":"Mangali Ayyanna",
+                "Age":"32",
+                "Qualification":"Nill",
+                "Motivation":"Need to see Pedda Harivanam as a developed one",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550032/MAyyanna_llrnio.jpg",
+                "Id.No":"22"
+            },
+            {
+                "Name":"Uppara Sai Kiran",
+                "Age":"19",
+                "Qualification":"Studying B.Tech",
+                "Motivation":"I want to see my village as inspiration to other villages",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550144/Sai_df17ku.jpg",
+                "Id.No":"23"
+            },
+            {
+                "Name":"B Nagaraju",
+                "Age":"19",
+                "Qualification":"Studying Diploma",
+                "Motivation":"I want development in our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732551572/Nagaraju_iqc6yf.jpg",
+                "Id.No":"24"
+            },
+            {
+                "Name":"Manvi Eranna",
+                "Age":"26",
+                "Qualification":"M.Sc and B.Ed",
+                "Motivation":"Because I know all about our village problems, so we are all raise our hands towards problems for solving. ಏತಕೆಂದರೆ ಈಗಿನ ಕಾಲ ಎಲ್ಲಾ ಸ್ವಾರ್ಥಿಗಳ ಪ್ರಪಂಚ . So i am interest to join our village development group, First off all I am said Thankful to all our group members.I support always this group. ಯಾವದೇ ಕಾರಣಕ್ಕೂ ರಾಜಕೀಯಕ್ಕೆ ತಲೆಬಾಗಬೇಡಿ. Group ನ ಯಲ್ಲಾ friends ಅಲ್ಲಿ ವಿನಂತಿ ಮಾಡುವುದು ಏನಂದರೆ,ಏನೇ ಬರಲಿ ಒಗ್ಗಟ್ಟು ಇರಲಿ. ",
+                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "Id.No":"25"
+            },
+            {
+                "Name":"M.Lakshmikanth",
+                "Age":"41",
+                "Qualification":"B.Tech and AMICE",
+                "Motivation":"Going in the way of change in every one’s life  ",
+                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "Id.No":"26"
             }
             
 

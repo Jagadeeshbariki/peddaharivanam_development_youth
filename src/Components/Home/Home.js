@@ -24,7 +24,7 @@ const Home = () => {
                 <li>Digital Literacy and E-Governance</li>
                 <li>Emergency Relief and Disaster Management</li>
             </ol>
-            <a href='https://wa.me/916300963789?text=I%20am%20interested%20to%20Join%20Your%20Group' target="_blank" rel="noreferrer"><button className={`${styles.JoinBtn}`}>Join Us</button></a>
+            <a href='https://wa.me/917382418304?text=I%20am%20interested%20to%20Join%20Your%20Group' target="_blank" rel="noreferrer"><button className={`${styles.JoinBtn}`}>Join Us</button></a>
         </div>
         <div className={`${styles.ImgDevOfVlg}`}>
             <img className={`${styles.devimg}`} src="https://res.cloudinary.com/dbohmpxko/image/upload/v1729676507/ImgDev_noc1kn.png" alt='VillageImg' />
