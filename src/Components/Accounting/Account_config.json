@@ -142,6 +142,10 @@
             {
               "description":" XVFC/2024-25/R/7",
               "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=120789"
+            },
+            {
+              "description":"XVFC/2024-25/R/8",
+              "pdfUrl":"https://egramswaraj.gov.in/receiptVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=153842"
             }
 
           ],
@@ -149,6 +153,26 @@
             {
               "description":"JSS CLAP MITRA SALARIES",
               "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=185808"
+            }
+          ]
+        }
+      },
+      {
+        "month":"December",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+            {
+              "description":"JSS CLAP MITRA SALARIES ",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=223479"
+            },
+            {
+              "description":"JSS CLAP MITRA SALARIES",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=223488"
+            },
+            {
+              "description":"CC ROAD FROM MONNU MAREMMA TEMPLE TO KANDARAMMA TEMPLE IN ",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=223542"
             }
           ]
         }

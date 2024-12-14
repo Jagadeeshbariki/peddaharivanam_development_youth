@@ -1,9 +1,13 @@
 import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
 import AccountData from './Account_config.json';
+import styles from './Account.module.css'
 
 const Account = () => {
-  return (
+  return (<div>
+    <div className={`${styles.ConsolidatedReport}`}>
+     <a href='https://egramswaraj.gov.in/FileRedirect.jsp?FD=ExpFY2024-2025/28&name=203887.html' target='_blank' rel="noopener noreferrer">Consolidated Report</a>
+    </div>
     <Accordion defaultActiveKey="0">
       {AccountData.map((finance, yearIndex) => (
         <Accordion.Item eventKey={`year-${yearIndex}`} key={yearIndex}>
@@ -62,7 +66,8 @@ const Account = () => {
         </Accordion.Item>
       ))}
     </Accordion>
-  );
+
+  </div>);
 };
 
 export default Account;
