@@ -139,20 +139,45 @@
     },
     {
         "id":8,
-        "title":"Exploring PWS Water Filtration in Our Village",
-        "description":"We visited the PWS facility in our village to understand their water filtration process. We observed how they filter water through granular beds, ensuring removal of suspended solids. The team checks materials for filter bed construction, considering factors like granulometry, grain shape, friability, and loss to acid. Our discussion with the water treatment specialists and PWS representatives provided valuable insights into their operations.",
+        "title":"Exploring PWS Water Filtration in Our Village and Taking action towards solving the issue",
+        "description":"We visited the PWS facility in our village to understand their water filtration process. We observed how they filter water through granular beds, ensuring removal of suspended solids. The team checks materials for filter bed construction, considering factors like granulometry, grain shape, friability, and loss to acid. Our discussion with the water treatment specialists and PWS representatives provided valuable insights into their operations. As the panchayt secretory do not done the work on time, we have raised the complaint on the Meekosam website to solve the issue of filter be as soon as possible",
         "date":"",
         "photos":[
             "https://res.cloudinary.com/dbohmpxko/image/upload/WhatsApp_Image_2024-11-04_at_6.06.46_PM_c5h1md.jpg",
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724862/WhatsApp_Image_2024-11-04_at_6.07.15_PM_tusmh1.jpg",
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724861/WhatsApp_Image_2024-11-04_at_6.07.41_PM_d4wjqu.jpg",
             "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724861/WhatsApp_Image_2024-11-04_at_6.07.38_PM_kmn7yi.jpg",
-            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724863/WhatsApp_Image_2024-11-04_at_6.07.24_PM_jefuk1.jpg"
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1730724863/WhatsApp_Image_2024-11-04_at_6.07.24_PM_jefuk1.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1734017255/WhatsApp_Image_2024-12-12_at_8.53.05_PM_eh92do.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1734017247/WhatsApp_Image_2024-12-12_at_8.53.12_PM_1_wihep5.jpg",
+            "https://res.cloudinary.com/dbohmpxko/image/upload/v1734017252/WhatsApp_Image_2024-12-12_at_8.53.12_PM_xl7idw.jpg"
         ],
         "videos":[
             "MJ-tSXXhprg",
             "HKLNHyDQnnY"
         ],
-        "documents":[""]
+        "documents":[
+            
+            {
+                "name":"Complait Letter",
+                "url":"https://drive.google.com/file/d/1AHLketeG-mFxA6teAH84h_8Hmrup5DoC/view?usp=sharing"
+            },
+            {
+                "name":"Solution to Our Complaint",
+                "url":"https://drive.google.com/file/d/1fgyoVqq0KD3renrLEnpJED2_Ls_Itqsu/view?usp=sharing"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "title":"Helping To MPP(T) School On the Occation Of Parents-Teachers Meeting",
+        "description":"As the Telugu school HM requested our help to make the Parent-Teacher Meeting a success, our group members assisted accordingly and successfully contributed to the meeting's accomplishment.",
+        "date":"7/12/2024",
+        "photos":["https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.23_PM_ngldwq.jpg",
+    "https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.23_PM_1_e06ad1.jpg",
+"https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.22_PM_hcawy4.jpg"],
+        "videos":["zgpSmkYzEUg", "LWlorxXpPFo"],
+        "documents":[]
     }
+
 ]
