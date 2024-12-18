@@ -2,6 +2,7 @@ import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
 import AccountData from './Account_config.json';
 import styles from './Account.module.css'
+// import OurFunds from '../OurFunds/OurFunds';
 
 const Account = () => {
   return (<div>
@@ -66,7 +67,9 @@ const Account = () => {
         </Accordion.Item>
       ))}
     </Accordion>
-
+      {/* <div>
+        <OurFunds/>
+      </div> */}
   </div>);
 };
 

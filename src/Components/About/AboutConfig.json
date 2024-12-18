@@ -221,6 +221,22 @@
                 "Motivation":"Going in the way of change in every one’s life  ",
                 "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
                 "Id.No":"26"
+            },
+            {
+                "Name":"Seshagiri Jagadeesh",
+                "Age":"23",
+                "Qualification":"B.Tech",
+                "Motivation":"I'm excited to join your group as I'm passionate about social activism and community development, and I believe that collective efforts can drive meaningful change.",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1734533878/WhatsApp_Image_2024-12-17_at_5.52.09_PM_o2j4cv.jpg",
+                "Id.No":"27"
+            },
+            {
+                "Name":"  G Garjappa",
+                "Age":"23",
+                "Qualification":"Intermediate ",
+                "Motivation":"I have inspired by these group work and I want to part of this group to Develop our village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1734534344/Pi7_Passport_Photo_mxaggp.jpg",
+                "Id.No":"27"
             }
             
 
