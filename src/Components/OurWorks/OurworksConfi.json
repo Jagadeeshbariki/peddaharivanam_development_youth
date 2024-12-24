@@ -174,10 +174,23 @@
         "description":"As the Telugu school HM requested our help to make the Parent-Teacher Meeting a success, our group members assisted accordingly and successfully contributed to the meeting's accomplishment.",
         "date":"7/12/2024",
         "photos":["https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.23_PM_ngldwq.jpg",
-    "https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.23_PM_1_e06ad1.jpg",
-"https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.22_PM_hcawy4.jpg"],
+                  "https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.23_PM_1_e06ad1.jpg",
+                  "https://res.cloudinary.com/dbohmpxko/image/upload/v1734014935/WhatsApp_Image_2024-12-12_at_8.16.22_PM_hcawy4.jpg"],
         "videos":["zgpSmkYzEUg", "LWlorxXpPFo"],
         "documents":[]
+    },
+    {
+        "id":10,
+        "title":"Donating the Bench to the Pedda Harivanam PHC",
+        "description":"When we visited the PHC at our village, we have observed that there is no sitting arrangements, then we have decided to donate a bench to PHC and find donars to get more benches to the PHC",
+        "photos":["https://res.cloudinary.com/dbohmpxko/image/upload/v1735056730/WhatsApp_Image_2024-12-24_at_9.33.49_PM_l8tw9e.jpg","https://res.cloudinary.com/dbohmpxko/image/upload/v1735056729/WhatsApp_Image_2024-12-24_at_9.33.50_PM_pngomv.jpg","https://res.cloudinary.com/dbohmpxko/image/upload/v1735056729/WhatsApp_Image_2024-12-24_at_9.33.50_PM_1_ludjc9.jpg"],
+        "videos":["P6cjW0_nIxs"],
+        "documents":[
+            {
+                "name":"Donating The Bench",
+                "url":"https://drive.google.com/file/d/15J4Vg3KB4oYj06FUtCSIs2muQfz0_88N/view?usp=sharing"
+            }
+        ]
     }
 
 ]
