@@ -25,6 +25,68 @@
         ],
         "members":[
             {
+                "Name":"M.Lakshmikanth",
+                "Age":"41",
+                "Qualification":"B.Tech and AMICE",
+                "Motivation":"Going in the way of change in every one’s life  ",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1735048755/Lakmikanth2_rf7lkp.jpg",
+                "Id.No":"26"
+            },
+            {
+                "Name":"Mangali Ayyanna",
+                "Age":"32",
+                "Qualification":"Nill",
+                "Motivation":"Need to see Pedda Harivanam as a developed one",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550032/MAyyanna_llrnio.jpg",
+                "Id.No":"22"
+            },
+            {
+                "Name":"L.Chidananda (siddu)",
+                "Age":"28",
+                "Qualification":"B.Tech",
+                "Motivation":"Iam also participate the PHDY because developing our village...",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1735048066/Pi7_Passport_Photo_1_eab76c.jpg",
+                "Id.No":"29"
+            },
+            {
+                "Name":"B. Shashi",
+                "Age":"27",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730365205/WhatsApp_Image_2024-10-31_at_2.16.53_PM_1_ugs3ef.jpg",
+                "Id.No":"16"
+            },
+            {
+                "Name":"AMEDALI VENKATESH REDDY",
+                "Age" :"27",
+                "Qualification":":B.COM GENERAL",
+                "Motivation":"I've observed my village since childhood, noticing improvement in buildings but not roads and infrastructure. I envision our village as a model for others. As I'm away for work, our youth are leading the development efforts",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364635/WhatsApp_Image_2024-10-31_at_2.16.52_PM_qjynfl.jpg",
+                "Id.No":"15"
+            },
+            {
+                "Name":"Mangali guru Murthy",
+                "Age" :"27",
+                "Qualification":"PUC inter",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729507690/1729502274249-removebg-preview_e2shuc.png",
+                "Id.No":"12"
+            },
+            {
+                "Name":"Roopa",
+                "Age" :"27",
+                "Qualification":"B.A Graduate",
+                "Motivation":"Joining in this group to struggle& supporting for  sustainable development of our village.. 💪💪",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364462/WhatsApp_Image_2024-10-31_at_2.16.53_PM_ht8omn.jpg",
+                "Id.No":"14"
+            },
+            {
+                "Name":"Manvi Eranna",
+                "Age":"26",
+                "Qualification":"M.Sc and B.Ed",
+                "Motivation":"Because I know all about our village problems, so we are all raise our hands towards problems for solving. ಏತಕೆಂದರೆ ಈಗಿನ ಕಾಲ ಎಲ್ಲಾ ಸ್ವಾರ್ಥಿಗಳ ಪ್ರಪಂಚ . So i am interest to join our village development group, First off all I am said Thankful to all our group members.I support always this group. ಯಾವದೇ ಕಾರಣಕ್ಕೂ ರಾಜಕೀಯಕ್ಕೆ ತಲೆಬಾಗಬೇಡಿ. Group ನ ಯಲ್ಲಾ friends ಅಲ್ಲಿ ವಿನಂತಿ ಮಾಡುವುದು ಏನಂದರೆ,ಏನೇ ಬರಲಿ ಒಗ್ಗಟ್ಟು ಇರಲಿ. ",
+                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "Id.No":"25"
+            },
+            {
                 "Name":"YERUKULA MAHESH",
                 "Age" :"27",
                 "Qualification":"I.T.I & DEGREE",
@@ -34,19 +96,51 @@
             },
             {
                 "Name":"BARIKI SHIVA KUMAR",
-                "Age" :"",
+                "Age" :"26",
                 "Qualification":"MBA",
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675328/Shiva_bkezcw.jpg",
                 "Id.No":"2"
             },
             {
-                "Name":"Podalakaunta srinivasulu ",
+                "Name":" Y.Dasarath  ",
+                "Age":"24",
+                "Qualification":"B.Sc",
+                "Motivation":"I am also part of that village, Empowering Peddaharivanam's growth, one initiative at a time.",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946621/Dasaratha_qnnsj9.jpg",
+                "Id.No":"19"
+            },
+            {
+                "Name":"Adoni Bheerappa ",
+                "Age":"25",
+                "Qualification":"B.Sc,B.Ed,Veternary Diploma",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
+                "Id.No":"20"
+            },
+            {
+                "Name":"Adoni Mounesh",
+                "Age" :"26",
+                "Qualification":"M.Com",
+                "Motivation":"My motivation to join the group is to empower youth and raise awareness among village residents about government schemes, public healthcare facilities, schools, and other essential resources. I aim to help people access available opportunities, enhancing both community knowledge and overall village development.",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364906/WhatsApp_Image_2024-10-31_at_2.16.51_PM_fzzezw.jpg",
+                "Id.No":"9"
+            },
+            {
+                "Name":"Abbu ",
+                "Age":"25",
+                "Qualification":"BA",
+                "Motivation":"",
+                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
+                "Id.No":"17"
+            },
+            {
+                "Name":"Adoni Naresh",
                 "Age" :"24",
-                "Qualification":"BI.P.C (DROP OUT)",
-                "Motivation":"The current situation of Our village motivate me to join this group. ",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729940864/Sreenu_tisivm.jpg",
-                "Id.No":"3"
+                "Qualification":"BA",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675329/Naresh_wgxqse.jpg",
+                "Id.No":"8"
             },
             {
                 "Name":"Bariki Jagadeeesh",
@@ -81,146 +175,12 @@
                 "Id.No":"7"
             },
             {
-                "Name":"Adoni Naresh",
-                "Age" :"24",
-                "Qualification":"BA",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729675329/Naresh_wgxqse.jpg",
-                "Id.No":"8"
-            },
-            {
-                "Name":"Adoni Mounesh",
-                "Age" :"26",
-                "Qualification":"M.Com",
-                "Motivation":"My motivation to join the group is to empower youth and raise awareness among village residents about government schemes, public healthcare facilities, schools, and other essential resources. I aim to help people access available opportunities, enhancing both community knowledge and overall village development.",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364906/WhatsApp_Image_2024-10-31_at_2.16.51_PM_fzzezw.jpg",
-                "Id.No":"9"
-            },
-            {
-                "Name":" UPPARA CHIRANJEEVI ",
-                "Age" :"22",
-                "Qualification":"",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_600,h_800,ar_3:4/v1729577884/WhatsApp_Image_2024-10-21_at_7.28.11_PM_jejgi3.jpg",
-                "Id.No":"10"
-            },
-            {
                 "Name":"Uppara Sunil Kumar ",
                 "Age" :"24",
                 "Qualification":"MBA",
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364906/WhatsApp_Image_2024-10-31_at_2.16.51_PM_1_wpsapw.jpg",
                 "Id.No":"11"
-            },
-            {
-                "Name":"Mangali guru Murthy",
-                "Age" :"27",
-                "Qualification":"PUC inter",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729507690/1729502274249-removebg-preview_e2shuc.png",
-                "Id.No":"12"
-            },
-            {
-                "Name":"Roopa",
-                "Age" :"27",
-                "Qualification":"B.A Graduate",
-                "Motivation":"Joining in this group to struggle& supporting for  sustainable development of our village.. 💪💪",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364462/WhatsApp_Image_2024-10-31_at_2.16.53_PM_ht8omn.jpg",
-                "Id.No":"14"
-            },
-            {
-                "Name":"AMEDALI VENKATESH REDDY",
-                "Age" :"27",
-                "Qualification":":B.COM GENERAL",
-                "Motivation":"I've observed my village since childhood, noticing improvement in buildings but not roads and infrastructure. I envision our village as a model for others. As I'm away for work, our youth are leading the development efforts",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364635/WhatsApp_Image_2024-10-31_at_2.16.52_PM_qjynfl.jpg",
-                "Id.No":"15"
-            },
-            {
-                "Name":"B. Shashi",
-                "Age":"27",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730365205/WhatsApp_Image_2024-10-31_at_2.16.53_PM_1_ugs3ef.jpg",
-                "Id.No":"16"
-            },
-            {
-                "Name":"Abbu ",
-                "Age":"25",
-                "Qualification":"BA",
-                "Motivation":"",
-                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
-                "Id.No":"17"
-            },
-            {
-                "Name":" K prakash  ",
-                "Age":"21",
-                "Qualification":"B.Com",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730376213/WhatsApp_Image_2024-10-31_at_5.10.39_PM_xxa0st.jpg",
-                "Id.No":"18"
-            },
-            {
-                "Name":" Y.Dasarath  ",
-                "Age":"24",
-                "Qualification":"B.Sc",
-                "Motivation":"I am also part of that village, Empowering Peddaharivanam's growth, one initiative at a time.",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946621/Dasaratha_qnnsj9.jpg",
-                "Id.No":"19"
-            },
-            {
-                "Name":"Adoni Bheerappa ",
-                "Age":"25",
-                "Qualification":"B.Sc,B.Ed,Veternary Diploma",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
-                "Id.No":"20"
-            },
-            {
-                "Name":"Girish",
-                "Age":"21",
-                "Qualification":"Degree",
-                "Motivation":"For the development of our Village",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732549336/Girish_pauadm.jpg",
-                "Id.No":"21"
-            },
-            {
-                "Name":"Mangali Ayyanna",
-                "Age":"32",
-                "Qualification":"Nill",
-                "Motivation":"Need to see Pedda Harivanam as a developed one",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550032/MAyyanna_llrnio.jpg",
-                "Id.No":"22"
-            },
-            {
-                "Name":"Uppara Sai Kiran",
-                "Age":"19",
-                "Qualification":"Studying B.Tech",
-                "Motivation":"I want to see my village as inspiration to other villages",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550144/Sai_df17ku.jpg",
-                "Id.No":"23"
-            },
-            {
-                "Name":"B Nagaraju",
-                "Age":"19",
-                "Qualification":"Studying Diploma",
-                "Motivation":"I want development in our Village",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732551572/Nagaraju_iqc6yf.jpg",
-                "Id.No":"24"
-            },
-            {
-                "Name":"Manvi Eranna",
-                "Age":"26",
-                "Qualification":"M.Sc and B.Ed",
-                "Motivation":"Because I know all about our village problems, so we are all raise our hands towards problems for solving. ಏತಕೆಂದರೆ ಈಗಿನ ಕಾಲ ಎಲ್ಲಾ ಸ್ವಾರ್ಥಿಗಳ ಪ್ರಪಂಚ . So i am interest to join our village development group, First off all I am said Thankful to all our group members.I support always this group. ಯಾವದೇ ಕಾರಣಕ್ಕೂ ರಾಜಕೀಯಕ್ಕೆ ತಲೆಬಾಗಬೇಡಿ. Group ನ ಯಲ್ಲಾ friends ಅಲ್ಲಿ ವಿನಂತಿ ಮಾಡುವುದು ಏನಂದರೆ,ಏನೇ ಬರಲಿ ಒಗ್ಗಟ್ಟು ಇರಲಿ. ",
-                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
-                "Id.No":"25"
-            },
-            {
-                "Name":"M.Lakshmikanth",
-                "Age":"41",
-                "Qualification":"B.Tech and AMICE",
-                "Motivation":"Going in the way of change in every one’s life  ",
-                "ImageURL":"https://cdn-icons-png.flaticon.com/128/17798/17798443.png",
-                "Id.No":"26"
             },
             {
                 "Name":"Seshagiri Jagadeesh",
@@ -236,7 +196,56 @@
                 "Qualification":"Intermediate ",
                 "Motivation":"I have inspired by these group work and I want to part of this group to Develop our village",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1734534344/Pi7_Passport_Photo_mxaggp.jpg",
-                "Id.No":"27"
+                "Id.No":"28"
+            },
+            {
+                "Name":"Podalakaunta srinivasulu ",
+                "Age" :"24",
+                "Qualification":"BI.P.C (DROP OUT)",
+                "Motivation":"The current situation of Our village motivate me to join this group. ",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1729940864/Sreenu_tisivm.jpg",
+                "Id.No":"3"
+            },
+            {
+                "Name":" UPPARA CHIRANJEEVI ",
+                "Age" :"22",
+                "Qualification":"",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/b_rgb:C2C9D6/c_fill,w_600,h_800,ar_3:4/v1729577884/WhatsApp_Image_2024-10-21_at_7.28.11_PM_jejgi3.jpg",
+                "Id.No":"10"
+            },
+            {
+                "Name":"Girish",
+                "Age":"21",
+                "Qualification":"Degree",
+                "Motivation":"For the development of our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732549336/Girish_pauadm.jpg",
+                "Id.No":"21"
+            },
+            {
+                "Name":" K prakash  ",
+                "Age":"21",
+                "Qualification":"B.Com",
+                "Motivation":"",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730376213/WhatsApp_Image_2024-10-31_at_5.10.39_PM_xxa0st.jpg",
+                "Id.No":"18"
+            },
+            {
+                "Name":"B Nagaraju",
+                "Age":"19",
+                "Qualification":"Studying Diploma",
+                "Motivation":"I want development in our Village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732551572/Nagaraju_iqc6yf.jpg",
+                "Id.No":"24"
+            },
+            
+            {
+                "Name":"Uppara Sai Kiran",
+                "Age":"19",
+                "Qualification":"Studying B.Tech",
+                "Motivation":"I want to see my village as inspiration to other villages",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550144/Sai_df17ku.jpg",
+                "Id.No":"23"
             }
             
 
