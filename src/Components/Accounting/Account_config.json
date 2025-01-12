@@ -196,6 +196,18 @@
             }
           ]
         }
+      },
+      {
+        "month":"January",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+            {
+              "description":"COMPUITER OPERATOR SALARY ",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2024-2025&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=262635"
+            }
+          ]
+        }
       }
     ]
   }
