@@ -55,14 +55,6 @@
                 "Id.No":"16"
             },
             {
-                "Name":"AMEDALI VENKATESH REDDY",
-                "Age" :"27",
-                "Qualification":":B.COM GENERAL",
-                "Motivation":"I've observed my village since childhood, noticing improvement in buildings but not roads and infrastructure. I envision our village as a model for others. As I'm away for work, our youth are leading the development efforts",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730364635/WhatsApp_Image_2024-10-31_at_2.16.52_PM_qjynfl.jpg",
-                "Id.No":"15"
-            },
-            {
                 "Name":"Mangali guru Murthy",
                 "Age" :"27",
                 "Qualification":"PUC inter",
@@ -109,14 +101,6 @@
                 "Motivation":"I am also part of that village, Empowering Peddaharivanam's growth, one initiative at a time.",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946621/Dasaratha_qnnsj9.jpg",
                 "Id.No":"19"
-            },
-            {
-                "Name":"Adoni Bheerappa ",
-                "Age":"25",
-                "Qualification":"B.Sc,B.Ed,Veternary Diploma",
-                "Motivation":"",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730946624/Bheerappa_zio3xe.jpg",
-                "Id.No":"20"
             },
             {
                 "Name":"Adoni Mounesh",
@@ -229,14 +213,6 @@
                 "Motivation":"",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1730376213/WhatsApp_Image_2024-10-31_at_5.10.39_PM_xxa0st.jpg",
                 "Id.No":"18"
-            },
-            {
-                "Name":"B Nagaraju",
-                "Age":"19",
-                "Qualification":"Studying Diploma",
-                "Motivation":"I want development in our Village",
-                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732551572/Nagaraju_iqc6yf.jpg",
-                "Id.No":"24"
             },
             
             {
