@@ -6,6 +6,11 @@ import styles from './Account.module.css'
 
 const Account = () => {
   return (<div>
+
+    <div className={styles.Accounting_Dashboard}>
+      <h2>Pedda Harivanam Accounting Dashboard</h2>
+      <iframe height="450" title='Dashborad' src="https://lookerstudio.google.com/embed/reporting/fb3f640c-29ab-4e04-8130-60fb0e63948a/page/hZKFF" frameborder="0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+    </div>
     <div className={`${styles.ConsolidatedReport}`}>
      <a href='https://egramswaraj.gov.in/FileRedirect.jsp?FD=ExpFY2024-2025/28&name=203887.html' target='_blank' rel="noopener noreferrer">Consolidated Report</a>
     </div>

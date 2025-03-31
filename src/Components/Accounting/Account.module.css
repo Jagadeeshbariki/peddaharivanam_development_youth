@@ -5,3 +5,37 @@
 .ConsolidatedReport a{
     font-size: larger;
 }
+
+.Accounting_Dashboard h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Accounting_Dashboard iframe{
+    width: 100%;
+}
+
+
+@media (min-width:500px) and (max-width:900px){
+    .Accounting_Dashboard{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .Accounting_Dashboard iframe{
+        width:80%
+    }
+}
+
+@media (min-width:1140px) {
+    .Accounting_Dashboard{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .Accounting_Dashboard iframe{
+        width: 50%;
+        
+    }
+}
