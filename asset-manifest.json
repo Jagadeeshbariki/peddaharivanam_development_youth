@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/peddaharivanam_development_youth/static/css/main.7889efd4.css",
-    "main.js": "/peddaharivanam_development_youth/static/js/main.5b706668.js",
+    "main.css": "/peddaharivanam_development_youth/static/css/main.41144c59.css",
+    "main.js": "/peddaharivanam_development_youth/static/js/main.89f7cd8e.js",
     "static/js/453.419a5d54.chunk.js": "/peddaharivanam_development_youth/static/js/453.419a5d54.chunk.js",
     "static/media/LogoWithoutBG.png": "/peddaharivanam_development_youth/static/media/LogoWithoutBG.89e11304c8a0f03e75b4.png",
     "index.html": "/peddaharivanam_development_youth/index.html",
-    "main.7889efd4.css.map": "/peddaharivanam_development_youth/static/css/main.7889efd4.css.map",
-    "main.5b706668.js.map": "/peddaharivanam_development_youth/static/js/main.5b706668.js.map",
+    "main.41144c59.css.map": "/peddaharivanam_development_youth/static/css/main.41144c59.css.map",
+    "main.89f7cd8e.js.map": "/peddaharivanam_development_youth/static/js/main.89f7cd8e.js.map",
     "453.419a5d54.chunk.js.map": "/peddaharivanam_development_youth/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7889efd4.css",
-    "static/js/main.5b706668.js"
+    "static/css/main.41144c59.css",
+    "static/js/main.89f7cd8e.js"
   ]
 }
