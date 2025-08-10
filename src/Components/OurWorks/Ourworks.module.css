@@ -9,6 +9,90 @@
     text-transform: uppercase;
 }
 
-.WorkList{
+/* .WorkList{
     font-family:Playfair ;
+    list-style-type: none;
+    
+    
+}
+
+.ourWorkSubContainer{
+    background-color: rgb(225, 112, 112);
+    margin: 5px ;
+    width: 500px;
+} */
+
+.OurworksContainer {
+  padding: 20px;
+}
+
+.WorksHeading {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.WorkListContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20;
+  list-style: none;
+  background-color: #0e81f3;
+}
+
+.WorkList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f5ac02;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.WorkTitle {
+  text-align: center;
+  font-size: 1rem;
+  color: blue;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+  background-color: #7df452;
+  padding: 5px 10px;
+}
+
+.ourWorkSubContainer {
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  text-align: center;
+}
+
+.WorkImage {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.WorkDescription {
+  line-height: 1.5; 
+  color: #555;
+}
+
+.ReadMoreButton {
+  background-color: #007bff;
+  color: white;
+  padding: 2px 8px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.ReadMoreButton:hover {
+  background-color: #0056b3;
 }
