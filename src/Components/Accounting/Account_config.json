@@ -257,6 +257,58 @@
           "Income":[],
           "Expenditure":[]
         }
+      },
+            {
+        "month":"May",
+        "details":{
+          "Income":[],
+          "Expenditure":[]
+        }
+      },
+            {
+        "month":"June",
+        "details":{
+          "Income":[],
+          "Expenditure":[]
+        }
+      },
+            {
+        "month":"July",
+        "details":{
+          "Income":[],
+          "Expenditure":[]
+        }
+      },
+            {
+        "month":"August",
+        "details":{
+          "Income":[],
+          "Expenditure":[]
+        }
+      },
+            {
+        "month":"September",
+        "details":{
+          "Income":[
+             {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/1",
+              "pdfUrl":"https://drive.google.com/file/d/155KCJcq5Yc1jUF4ZR1fg2QoC4Vdiz7XU/view?usp=sharing"
+             },
+             {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/3",
+              "pdfUrl":"https://drive.google.com/file/d/1qE3nT4JLFjlnJqbGl0zbWVIZn3f1Hm6B/view?usp=sharing"
+             },
+             {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/2",
+              "pdfUrl":"https://drive.google.com/file/d/1c4beJ9cSAp7fmE4utjuDx5-yxJXOl3UJ/view?usp=sharing"
+             },
+             {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/4",
+              "pdfUrl":"https://drive.google.com/file/d/1CZSlGBGgNTTl0WTeKnQH8Tf-rD6ineb_/view?usp=sharing"
+             }
+          ],
+          "Expenditure":[]
+        }
       }
     ]
   }

@@ -222,6 +222,22 @@
                 "Motivation":"I want to see my village as inspiration to other villages",
                 "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1732550144/Sai_df17ku.jpg",
                 "Id.No":"23"
+            },
+            {
+                "Name":"Eravadi Dasharatha",
+                "Age":"23",
+                "Qualification":"10th Class",
+                "Motivation":"I Have Joined this group, To develop our village",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1757855752/Pi7_Passport_Photo_1_f7ehoh.jpg",
+                "Id.No":"24"
+            },
+            {
+                "Name":"M shekarappa",
+                "Age":"33",
+                "Qualification":"Degree",
+                "Motivation":"Want to develop our infrastructure",
+                "ImageURL":"https://res.cloudinary.com/dbohmpxko/image/upload/v1757855750/Pi7_Passport_Photo_s4svg1.jpg",
+                "Id.No":"25"
             }
             
 
