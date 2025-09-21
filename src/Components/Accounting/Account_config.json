@@ -307,7 +307,12 @@
               "pdfUrl":"https://drive.google.com/file/d/1CZSlGBGgNTTl0WTeKnQH8Tf-rD6ineb_/view?usp=sharing"
              }
           ],
-          "Expenditure":[]
+          "Expenditure":[
+            {
+              "description":"Salaries For the Sanitory Workesrs",
+              "pdfUrl":"https://drive.google.com/file/d/14rwoRaF0PBvlCfL1q2PTz2cMUiDmtGft/view?usp=sharing"
+            }
+          ]
         }
       }
     ]
