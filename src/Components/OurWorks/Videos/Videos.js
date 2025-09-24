@@ -10,7 +10,8 @@ const Videos = () => {
     "XNRgnWWDFws",
     "MJ-tSXXhprg",
     "HKLNHyDQnnY",
-    "Fxy1ufl11Uo"
+    "Fxy1ufl11Uo",
+    "BqWpd38kDNk"
   ]
   return (
     <div className={`${styles.YVideos}`}>
