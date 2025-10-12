@@ -286,7 +286,7 @@
           "Expenditure":[]
         }
       },
-            {
+      {
         "month":"September",
         "details":{
           "Income":[
@@ -315,6 +315,18 @@
             {
               "description":"RESTORATION OF DEUNCT PWS SCHEMENEAR JAGANANNA COLONY, SS TANK, IN PUMP ROOM",
               "pdfUrl":"https://drive.google.com/file/d/1_9PP2ioL3JtCXhAZ_1A3nGBSsky46Kcd/view?usp=sharing"
+            }
+          ]
+        }
+      },
+      {
+        "month":"October",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+            {
+              "description":"HIRING OF PRIVATE BOREWELL, RESTORATION OF DEUNCT PWS SCHEMENEAR JAGANANNA COLONY, SS TANK, IN PUMP ROOM AT PEDDAHARIVANAM - II",
+              "pdfUrl":"https://drive.google.com/file/d/1hfErgP1jd0QwEep6swInqd7G0YTHWLP3/view?usp=sharing"
             }
           ]
         }
