@@ -322,11 +322,33 @@
       {
         "month":"October",
         "details":{
-          "Income":[],
+          "Income":[
+            {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/5",
+              "pdfUrl":"https://drive.google.com/file/d/1E28Lh6VRhxWLXsCPZB8OVM9FL89uLwNR/view?usp=sharing"
+             },
+             {
+              "description":"Funds From Central Govt-XVFC/2025-26/R/6",
+              "pdfUrl":"https://drive.google.com/file/d/1C_IAee9JGIDr9R95rOTrCve1hVOwbQah/view?usp=sharing"
+             }
+
+          ],
           "Expenditure":[
             {
               "description":"HIRING OF PRIVATE BOREWELL, RESTORATION OF DEUNCT PWS SCHEMENEAR JAGANANNA COLONY, SS TANK, IN PUMP ROOM AT PEDDAHARIVANAM - II",
               "pdfUrl":"https://drive.google.com/file/d/1hfErgP1jd0QwEep6swInqd7G0YTHWLP3/view?usp=sharing"
+            },
+            {
+              "description":"PROVIDING CC DRAIN FROM MASEED TO Y LINGA REDDYHOUSE AT PEDDAHARIVANAM GRAM PANCHAYAT OFADONI MANDAL.",
+              "pdfUrl":"https://drive.google.com/file/d/1mjJs5EUxXYuJr312bJkNS-52Y8drMO9u/view?usp=sharing"
+            },
+            {
+              "description":"REPLACEMENT OF FILTER MEIDA TO PWS SCHEME ATPEDDAHARIVANAM GRAM PANCHAYAT OF ADONI MANDAL.NO-2-3.",
+              "pdfUrl":"https://drive.google.com/file/d/13goNbkJ7u2ATVJsnl_a3NyAtSJit_mF1/view?usp=sharing"
+            },
+            {
+              "description":"Salaries For the Sanitory Workesrs",
+              "pdfUrl":"https://drive.google.com/file/d/1E73v9BlEqid0pydcuYWpIYqCX5RQnPjM/view?usp=sharing`"
             }
           ]
         }
