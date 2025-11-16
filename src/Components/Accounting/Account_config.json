@@ -352,6 +352,30 @@
             }
           ]
         }
+      },
+      {
+        "month":"November",
+        "details":{
+          "Income":[],
+          "Expenditure":[
+            {
+              "description":"PROVIDING CC DRAIN FROM UPPARU HUSENAPPA HOUSE TO BARIKI MALALIAH HOUSE AT PEDDAHARIVANAM GRAM PANCHAYAT OF ADONI MANDAL.",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2025-2026&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=211758"
+            },
+            {
+              "description":"PROVIDING PWS SCHEME NEAR NARA CHANDRA BABU NAIDU NAGAR AT PEDDAHARIVANAM GRAM PANCHAYAT OF ADONI MANDAL.",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2025-2026&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=211766"
+            },
+            {
+              "description":"REPLACEMENT OF FILTER MEIDA TO PWS SCHEME ATPEDDAHARIVANAM GRAM PANCHAYAT OF ADONI MANDAL.NO-2-3.",
+              "pdfUrl":"https://drive.google.com/file/d/13goNbkJ7u2ATVJsnl_a3NyAtSJit_mF1/view?usp=sharing"
+            },
+            {
+              "description":"Salaries For the Sanitory Workesrs",
+              "pdfUrl":"https://egramswaraj.gov.in/paymentVoucherDetail.do?finYear=2025-2026&PRIEntity_code=203887&stateCode=28&districtCode=466&blockCode=5483&villageCode=203887&voucherID=224062"
+            }
+          ]
+        }
       }
     ]
   }
