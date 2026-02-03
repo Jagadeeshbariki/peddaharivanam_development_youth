@@ -9,6 +9,7 @@ import Contact from '../Contact/Contact';
 import Ourworks from '../OurWorks/Ourworks';
 import WorkDetails from '../OurWorks/WorkDetails/WorkDetails';
 import Account from '../Accounting/Account';
+import Admit from '../Admit/Admit';
 
 
 const Menu = () => {
@@ -39,6 +40,7 @@ const HandleClick=(ClickedMenu)=>{
         <Route path='/ourworks' element={<Ourworks/>}/>
         <Route path='/ourworks/:workId' element={<WorkDetails/>}/>
         <Route path='/accounts' element={< Account/> }/>
+        <Route path='/admit' element={<Admit/>}/>
       </Routes>
     </div>
     

@@ -1,0 +1,58 @@
+{
+  "volunteerProfiles": [
+    {
+      "name": "Village Support Volunteer",
+      "role": "Community outreach and on-ground coordination",
+      "focus": [
+        "Assist families with applications and follow-ups",
+        "Share updates on village programs and events",
+        "Collect feedback and report concerns"
+      ]
+    },
+    {
+      "name": "Youth Engagement Volunteer",
+      "role": "Student and youth mentorship",
+      "focus": [
+        "Coordinate learning circles and career guidance",
+        "Promote digital literacy initiatives",
+        "Organize sports and wellness activities"
+      ]
+    }
+  ],
+  "panchayatAccounts": [
+    {
+      "title": "Monthly Panchayat Account Summary",
+      "details": [
+        "Track income sources and expenditure heads",
+        "Link to monthly vouchers or statements",
+        "Provide status of ongoing projects"
+      ]
+    },
+    {
+      "title": "Annual Consolidated Report",
+      "details": [
+        "Highlight year-wise development outcomes",
+        "Summarize audit notes and action items",
+        "Include approved works and budget allocations"
+      ]
+    }
+  ],
+  "workingDetails": [
+    {
+      "title": "Active Projects",
+      "details": [
+        "Road maintenance and drainage repairs",
+        "School and Anganwadi facility upgrades",
+        "Village cleanliness and sanitation drives"
+      ]
+    },
+    {
+      "title": "Upcoming Initiatives",
+      "details": [
+        "Community health camps",
+        "Women empowerment skill programs",
+        "Tree plantation and water conservation"
+      ]
+    }
+  ]
+}
