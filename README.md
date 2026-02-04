@@ -39,6 +39,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Peddaharivanam Village Accounts Form
+
+The Admit page includes a form for logging village account entries and uploading supporting files. To connect it to Google Sheets and Drive, configure the following environment variable before running the app:
+
+```bash
+REACT_APP_ACCOUNTS_SUBMIT_ENDPOINT="https://script.google.com/macros/s/your-apps-script-id/exec"
+```
+
+The endpoint should be a Google Apps Script web app that accepts `multipart/form-data`, writes the fields to a Google Sheet, and uploads the file to a Google Drive folder.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
